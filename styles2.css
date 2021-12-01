@@ -1,0 +1,217 @@
+/*
+Design by Flash-Templates-Today.com
+http://www.flash-templates-today.com
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+a:link {
+	color: #8eabaf;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #8eabaf;
+}
+
+a:visited {
+	color: #8eabaf;
+}
+
+*
+{
+border: 0;
+margin: 0;
+}
+
+body
+{
+	background: #ffffff url(images/back_all.jpg) repeat-x top;
+	font: 12px Tahoma, Arial, Helvetica, sans-serif;
+	color: #666666;
+	margin-top: 10px;
+}
+
+#main
+{
+margin: 0 auto;
+width: 912px;
+background: url(images/table_back.jpg) repeat-y;
+}
+
+#header
+{
+background: url(images/header.jpg) no-repeat;
+width: 912px;
+height: 262px;
+}
+
+#logo
+{
+padding-left: 40px;
+text-align: left;
+padding-top: 40px;
+height: 40px;
+}
+
+#logo a {
+	text-decoration: none;
+	text-transform: lowercase;
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+
+#logo H2 a
+{
+font-size: 10px;
+}
+
+#buttons
+{
+padding-top: 140px;
+height: 40px;
+padding-left: 120px;
+}
+
+#buttons li {
+	display: inline;
+}
+
+#buttons a {
+	display: block;
+	float: left;
+	width: 120px;
+	height: 30px;
+	margin-left: 1px;
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 16px;
+	padding-top: 10px;
+
+}
+
+#buttons a:hover {
+	text-decoration: underline;
+	color: #119afa;
+}
+
+#content
+{
+width: 870px;
+padding: 15px;
+}
+
+#content H1
+{
+color: #233D7B;
+margin: 0;
+padding: 0;
+font-size: 24px;
+font:Tahoma, Arial, Helvetica, sans-serif;
+}
+#content H2
+{
+color: #FFFFFF;
+margin: 0;
+padding: 0;
+font-size: 18px;
+padding-top: 10px;
+font:Tahoma, Arial, Helvetica, sans-serif;
+}
+
+.small
+{
+margin: 15px;
+padding: 5px;
+border: 1px solid #99A067
+}
+
+#right
+{
+float: right;
+width: 254px;
+}
+
+
+#footer
+{
+	background-color: #000000;
+	height: 52px;
+	font-size: 10px;
+	color: #ffffff;
+	padding-top: 20px;
+	text-align: center;
+	border-top: #ffffff solid 5px;
+}
+
+#footer a
+{
+color: #ffffff;
+font-size: 10px;
+text-decoration: none;
+}
+.padding
+{
+padding: 10px;
+color:#FF0000;
+font-weight: bold;
+}
+
+#sidebar 
+{
+width: 254px;
+}
+
+#sidebar ul 
+{
+	margin: 0;
+	padding: 3px;
+	list-style: none;
+	background: url(images/title_back.jpg) repeat;
+}
+
+#sidebar li 
+{
+	margin-bottom: 15px;
+
+}
+
+#sidebar li ul {
+	padding: 10px;
+	border-top: none;
+}
+
+#sidebar li li {
+	margin: 0;
+	padding: 3px 0;
+}
+
+
+#sidebar li h2 {
+	height: 45px;
+	margin: 0;
+	padding: 10px 0 0 20px;
+	background: #014397 url(images/title2.jpg) repeat;
+	font-size: 18px;
+	color: #ffffff;
+	text-align:center;
+}
+
+
+#table table {
+		border:1px solid #014397;
+		
+	}
+	#table th {
+		background:#014397;
+		color:#FFF;
+	}
+	#table td {
+		text-align:center;
+		border-bottom:2px solid #014397;
+		color:#333;
+		font-size:18px;
+	}
